@@ -1,6 +1,9 @@
 #to run the website
+
 #cd Trailer Hunt
+
 #npm install
+
 #npm run dev(as i have used vite to build)
 
 # Introduction:
