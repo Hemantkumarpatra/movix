@@ -1,7 +1,7 @@
-# to run the website
-# cd Trailer Hunt
-# npm install
-# npm run dev(as i have used vite to build)
+#to run the website
+#cd Trailer Hunt
+#npm install
+#npm run dev(as i have used vite to build)
 
 # Introduction:
 World Movix (Web React Application): A dynamic and fully responsive web app that explores exciting movies and
