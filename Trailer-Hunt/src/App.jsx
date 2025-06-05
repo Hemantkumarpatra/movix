@@ -56,7 +56,7 @@ function App() {
     };
 
     return (
-        <BrowserRouter>
+        <BrowserRouter basename = "/Trailer-Hunt/">
             <Header />
             <Routes>
                 <Route path="/" element={<Home />} />
